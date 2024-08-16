@@ -9,7 +9,7 @@
 
 /* Variables */
 
-:root{
+:root {
   --main-color:#f74780;
   --main-text-color: #FFF;
   --border-color: #999;
@@ -58,7 +58,7 @@
   margin-bottom: 20px;
 }
 
-#bio-img {
+#bio-image {
   width: 175px;
   height: 175px;
   border-radius: 50%;
@@ -96,7 +96,6 @@
 #email-container ion-icon,
 #email-container a {
   flex: 1 1 0;
-
 }
 
 #email-container a {
@@ -241,7 +240,7 @@
 
 }
 
-.roboto-light {
+/*.roboto-light {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -275,5 +274,5 @@
     font-family: "Roboto", sans-serif;
     font-weight: 900;
     font-style: italic;
-  }
+  }*/
   
