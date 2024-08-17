@@ -83,7 +83,7 @@
   max-width: 60px;
 }
 
-#social-container a {
+#social-container li a {
   color: var(--main-text-color);
   font-size: 30px;
 }
@@ -112,6 +112,7 @@
 }
 
 /* about container */
+
 #name {
  font-size: 42px;
  margin-bottom: 15px;
@@ -139,7 +140,7 @@
   transition: .5s;
   margin: 25px 0;
   padding: 12px 10px;
-  width: 150 px;
+  width: 150px;
   text-align: center;
   display: flex;
 }
@@ -191,7 +192,7 @@
 }
 
 /* Mobile */
-@media(max-width: 450px){
+@media(max-width: 450px) {
 
   #container {
     flex-direction: column;
